@@ -2,7 +2,7 @@
 
 
 | Name | Role |
-|---|---|---|
+|---|---|
 | Prathmesh Dali | Leader |
 | Nikhil Sinnarkar | Member |
 | Shivam Chawla | Member |
